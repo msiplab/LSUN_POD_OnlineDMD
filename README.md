@@ -1,2 +1,3 @@
 # LSUN_POD_OnlineDMD
-Run setup.m first
+First run setup.m 
+Second run main_LSUN_POD_OnlineDMD.mlx
